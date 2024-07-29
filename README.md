@@ -9,14 +9,14 @@ The dataset used in this project is available on Kaggle: [Resume Datasets](https
 
 ## Project Structure
 
-- `data/`: Contains the dataset and any other data files.
+- `template/`: Contains the template files.
 - `models/`: Contains the trained models.
 - `notebooks/`: Contains Jupyter notebooks for exploratory data analysis and model development.
 - `README.md`: This file.
 
 ## Installation
 
-To install the required packages, run:
+To run the code:
 
 ```bash
 python run app.py
